@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.0">
   <diagram name="Page-1" id="1IFss9A6_Atm94mOVbDQ">
-    <mxGraphModel dx="7824" dy="2556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="6560" dy="1826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -229,8 +229,34 @@
         <mxCell id="BPjyAAPJrBVMXax3LGyC-103" value="mubers is rady" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="295" y="790" width="260" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="BPjyAAPJrBVMXax3LGyC-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BPjyAAPJrBVMXax3LGyC-110">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-9.999999999999545" y="1540.0000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="BPjyAAPJrBVMXax3LGyC-110" value="start game" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="917" width="90" height="40" as="geometry" />
+          <mxGeometry x="-55" y="1430" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BPjyAAPJrBVMXax3LGyC-124" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BPjyAAPJrBVMXax3LGyC-114" target="BPjyAAPJrBVMXax3LGyC-110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BPjyAAPJrBVMXax3LGyC-114" value="idia" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="1540" width="140" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="BPjyAAPJrBVMXax3LGyC-122" value="movemnt vale" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="BPjyAAPJrBVMXax3LGyC-114">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BPjyAAPJrBVMXax3LGyC-115" value="ibno batota" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="BPjyAAPJrBVMXax3LGyC-114">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BPjyAAPJrBVMXax3LGyC-116" value="roock pazil" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="BPjyAAPJrBVMXax3LGyC-114">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BPjyAAPJrBVMXax3LGyC-117" value="thang war" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="BPjyAAPJrBVMXax3LGyC-114">
+          <mxGeometry y="120" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BPjyAAPJrBVMXax3LGyC-121" value="spay top down" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="BPjyAAPJrBVMXax3LGyC-114">
+          <mxGeometry y="150" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

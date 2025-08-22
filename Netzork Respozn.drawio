@@ -8,14 +8,14 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="45tqVrAUMRHgGHE-6lSJ-1" value="NetWork&amp;nbsp;&lt;div&gt;Respown&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;start system&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="340" y="80" width="120" height="80" as="geometry" />
+          <mxGeometry x="340" y="120" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="45tqVrAUMRHgGHE-6lSJ-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="45tqVrAUMRHgGHE-6lSJ-7" target="45tqVrAUMRHgGHE-6lSJ-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="45tqVrAUMRHgGHE-6lSJ-12" value="True" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="45tqVrAUMRHgGHE-6lSJ-11" vertex="1" connectable="0">
           <mxGeometry x="0.3176" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="2" y="11" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="45tqVrAUMRHgGHE-6lSJ-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="45tqVrAUMRHgGHE-6lSJ-7" target="45tqVrAUMRHgGHE-6lSJ-16" edge="1">
@@ -43,7 +43,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="45tqVrAUMRHgGHE-6lSJ-16" value="Take Damge" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="490" y="420" width="120" height="60" as="geometry" />
+          <mxGeometry x="490" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="45tqVrAUMRHgGHE-6lSJ-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="45tqVrAUMRHgGHE-6lSJ-22" target="45tqVrAUMRHgGHE-6lSJ-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -107,7 +107,7 @@
         <mxCell id="45tqVrAUMRHgGHE-6lSJ-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="45tqVrAUMRHgGHE-6lSJ-48" target="45tqVrAUMRHgGHE-6lSJ-50" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="45tqVrAUMRHgGHE-6lSJ-48" value="Destroy Same object" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="45tqVrAUMRHgGHE-6lSJ-48" value="Destroy object" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-220" y="990" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="45tqVrAUMRHgGHE-6lSJ-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="45tqVrAUMRHgGHE-6lSJ-50" target="45tqVrAUMRHgGHE-6lSJ-52" edge="1">
